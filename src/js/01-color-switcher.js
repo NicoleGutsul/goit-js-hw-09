@@ -40,5 +40,4 @@ function getRandomHexColor() {
 
 function toggleButtonsAttributeDisable() {
     refs.btnStart.toggleAttribute('disabled');
-    refs.btnStop.toggleAttribute('disabled');
 }
